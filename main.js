@@ -34,7 +34,6 @@ function createObj () {
         <img class="carrots" src=img/carrot.png>
         <img class="bugs" src=img/bug.png>`;
     container.appendChild(setObj);
-
     }
 
 

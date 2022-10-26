@@ -62,5 +62,6 @@ body {
 .set__obj { 
     display: flex;
     block-size: 100%, 740px;
-    flex-direction: column-reverse;
+    
 }
+
